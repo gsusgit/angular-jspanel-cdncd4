@@ -1,0 +1,27 @@
+/* Add application styles & imports to this file! */
+[appJsPanel] {
+    height: 100%;
+}
+
+#jsPanel-replacement-container .jsPanel-replacement,
+.jsPanel-minimized-box .jsPanel-replacement {
+    width: 214px;
+    height: 24px;
+}
+
+div.jsPanel-hdr {
+    height: 28px !important;
+}
+
+.jsPanel-titlebar h3 {
+    font-size: 14px;
+}
+
+
+.jsPanel-btn > span.fa {
+ font-size: 14px;
+}
+
+.jsPanel-content {
+    overflow: hidden!important;
+}
